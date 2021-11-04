@@ -11,3 +11,5 @@ function constructNote(msg, letters) {
     }
     return true;
 }
+
+module.exports = constructNote;
